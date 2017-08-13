@@ -1,10 +1,10 @@
 # Site settings
 title: KraoWang
 header-img: "img/green.jpg"
-tagline: "cn"  
+#tagline: "cn"  
 description: "My Test"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "karo.wang"  
 
 # About/contact
 owner: 
