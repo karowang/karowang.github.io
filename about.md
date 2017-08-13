@@ -17,7 +17,7 @@ KaroWang
 
 - [博客：karo.wang](Karo.wang)
 
-- [微博@十八线产品经理](http://weibo.com/sunshineshore)
+- [微博@十八线产品经理](http://weibo.com/buzaijiaoshi)
 
 - 公众号：芙蓉夜雨
 
