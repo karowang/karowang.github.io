@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: KraoWang
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "My Test"  
 baseurl: ""
 url: "http://cnfeat"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " Karo"
+  email: karo9@foxmail.com
+  bio: "Hahahah"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
